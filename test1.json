@@ -1,0 +1,142 @@
+{
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "imageUrl": "https://www.example.com/images/math.jpg",
+      "totalCourses": 4,
+      "semesters": [
+        {
+          "semester": 1,
+          "courses": [
+            {
+              "id": "math101",
+              "title": "Les limites",
+              "pdfLink": "https://www.example.com/pdfs/les_limites.pdf",
+              "Credit": "3",
+              "level": "Beginner"
+            },
+            {
+              "id": "math102",
+              "title": "Étude des fonctions",
+              "pdfLink": "https://www.example.com/pdfs/etude_des_fonctions.pdf",
+              "Credit": "4",
+              "level": "Beginner"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "courses": [
+            {
+              "id": "math201",
+              "title": "Dérivation",
+              "pdfLink": "https://www.example.com/pdfs/derivation.pdf",
+              "Credit": "3",
+              "level": "Intermediate"
+            },
+            {
+              "id": "math202",
+              "title": "Intégration",
+              "pdfLink": "https://www.example.com/pdfs/integration.pdf",
+              "Credit": "4",
+              "level": "Intermediate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agro",
+      "name": "Agronomy",
+      "imageUrl": "https://www.example.com/images/agronomy.jpg",
+      "totalCourses": 4,
+      "semesters": [
+        {
+          "semester": 1,
+          "courses": [
+            {
+              "id": "agro101",
+              "title": "Introduction à l'agronomie",
+              "pdfLink": "https://www.example.com/pdfs/agronomie_intro.pdf",
+              "Credit": "3",
+              "level": "Beginner"
+            },
+            {
+              "id": "agro102",
+              "title": "Science du sol",
+              "pdfLink": "https://www.example.com/pdfs/science_du_sol.pdf",
+              "Credit": "4",
+              "level": "Beginner"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "courses": [
+            {
+              "id": "agro201",
+              "title": "Gestion de la fertilité du sol",
+              "pdfLink": "https://www.example.com/pdfs/gestion_fertilite.pdf",
+              "Credit": "3",
+              "level": "Intermediate"
+            },
+            {
+              "id": "agro202",
+              "title": "Techniques de culture",
+              "pdfLink": "https://www.example.com/pdfs/techniques_culture.pdf",
+              "Credit": "4",
+              "level": "Intermediate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bio",
+      "name": "Biologie Végétale",
+      "imageUrl": "https://www.example.com/images/biologie.jpg",
+      "totalCourses": 4,
+      "semesters": [
+        {
+          "semester": 1,
+          "courses": [
+            {
+              "id": "bio101",
+              "title": "Morphologie des plantes",
+              "pdfLink": "https://www.example.com/pdfs/morphologie_plantes.pdf",
+              "Credit": "3",
+              "level": "Beginner"
+            },
+            {
+              "id": "bio102",
+              "title": "Cellule végétale",
+              "pdfLink": "https://www.example.com/pdfs/cellule_vegetale.pdf",
+              "Credit": "3",
+              "level": "Beginner"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "courses": [
+            {
+              "id": "bio201",
+              "title": "Physiologie végétale",
+              "pdfLink": "https://www.example.com/pdfs/physiologie_vegetale.pdf",
+              "Credit": "4",
+              "level": "Intermediate"
+            },
+            {
+              "id": "bio202",
+              "title": "Génétique des plantes",
+              "pdfLink": "https://www.example.com/pdfs/genetique_plantes.pdf",
+              "Credit": "4",
+              "level": "Intermediate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
